@@ -1,0 +1,17 @@
+# Environments
+.venv/
+venv/
+
+# OS garbage
+.DS_Store
+
+# Secrets
+.env
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
